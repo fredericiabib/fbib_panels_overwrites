@@ -1,0 +1,3 @@
+<?php
+
+include_once('fbib_panels_overwrites.features.inc');

@@ -1,0 +1,6 @@
+name = "Fbib panels overwrites"
+description = "Fbib specific panels overwrites"
+core = "6.x"
+package = "Features"
+dependencies[] = "ctools"
+dependencies[] = "page_manager"
