@@ -10,10 +10,3 @@
 function fbib_panels_overwrites_update_6000() {
   drupal_install_modules(array('ding_tabroll'));
 }
-
-/**
- * Enable ding_library_tabroll module.
- */
-function fbib_panels_overwrites_update_6001() {
-  drupal_install_modules(array('ding_library_tabroll'));
-}
